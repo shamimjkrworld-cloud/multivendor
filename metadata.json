@@ -1,0 +1,8 @@
+{
+  "name": "Tracketo Shop",
+  "description": "A comprehensive multivendor e-commerce platform with dynamic dashboards for Admins, Vendors, and Users.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
